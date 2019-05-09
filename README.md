@@ -8,7 +8,9 @@ Note that as of February 2016, no sources are available for the released Noto fo
 The files in this repository are work-in-progress for future versions of the fonts that have not been released yet. 
 The designs and glyph sets are not final.
 
-[CJK](https://github.com/MODU-FTNC/noto-cjk) | [Emoji](https://github.com/MODU-FTNC/noto-emoji)
+> Korean
+- [Noto CJK](https://github.com/MODU-FTNC/noto-cjk)
+- 본고딕 [Sans](https://github.com/MODU-FTNC/source-han-sans) & 본고딕 [Serif](https://github.com/MODU-FTNC/source-han-serif)
 
 ## Building
 
